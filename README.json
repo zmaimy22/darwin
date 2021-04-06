@@ -1,1 +1,60 @@
-
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "Example 1",
+      "playStoreID": "com.amazing.robot.car.city.battle.blue.hero",
+      "appStoreID": "1111",
+      "price": "FREE",
+      "images": [
+        {
+          "url": "https://play-lh.googleusercontent.com/71silkZK8h0Sk1xv4F5Oi3I7ws-T3AuM_wvYtZ-fri0r6RLeKtyiBWtDOuu4Khcm_OY=w720-h310",
+          "frameColor": "#f44242"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/qOJySJ4-HcgGl2ctAlm62AgAVWPfKhwuoDBys7q4ZpWhOKE5bn7KZkk4aGNAYL0Qaxiz=w720-h310",
+          "frameColor": "#41f456"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Example 2",
+      "playStoreID": "com.robotcar.citycrime.ganghero",
+      "appStoreID": "2222",
+      "price": "FREE",
+      "images": [
+        {
+          "url": "https://play-lh.googleusercontent.com/axaY6MS8Qm81cGrISnPbgUtbfyOJDhqjqod5Ybk_VkO5yjbMSEGLFKUpKP8X0h9GwJ4=w840-h620",
+          "frameColor": "#5841f4"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Example 2",
+      "playStoreID": "com.supersnow.herowind",
+      "appStoreID": "2222",
+      "price": "FREE",
+      "images": [
+        {
+          "url": "https://play-lh.googleusercontent.com/keLiKpLnhEajlE4GIvoUiBJO1Kt12OYciqlQoAN7cWNjeO6YzPiktDcGBgNEmmtHkAo=w720-h310",
+          "frameColor": "#5841f4"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Example 2",
+      "playStoreID": "com.firerobot.transofrmer",
+      "appStoreID": "2222",
+      "price": "FREE",
+      "images": [
+        {
+          "url": "https://play-lh.googleusercontent.com/6Ro2VsDfes_op9_r5AfFSI131XMaLCk-rhFrh3NRfPlLPZO1vLoYwY4zFx8_g03Nhbg=w720-h310",
+          "frameColor": "#5841f4"
+        }
+      ]
+    }
+  ]
+}
